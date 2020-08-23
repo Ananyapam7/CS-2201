@@ -8,4 +8,4 @@ This introductory course on computation offered to second year undergrads at IIS
 - Random processes and probabilities. 
 - Elementary simulations of physical, chemical or biological systems
 
-These are my solutions for the same.
+These are my solutions for the same. Find out more about the course [here](https://www.iiserkol.ac.in/teaching-plan/course/2020/Spring/CS2201/)
