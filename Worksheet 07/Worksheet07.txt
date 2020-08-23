@@ -1,0 +1,17 @@
+1.  For h = 0.01, log(x^2+y^2) + 4*arctan(y/x) converges to 6.28328, which is an error of 0.0148.
+    For h = 0.001, it converges to 6.28319, which is an error of 0.0008.
+    Thus, accuracy of the solution increases with decrease in h.
+
+2.  For h = 0.01, log(x^2+y^2) + 4*arctan(y/x) converges to 6.28328, which is an error of 9.47e-05.
+    For h = 0.001, it converges to 6.28319, which is an error of 4.69e-06.
+    Thus, accuracy of the solution increases with decrease in h.
+
+3.  When h = 0.01, order = 2.423
+    When h = 0.001, order = 2.42249
+    We see that the order of error does not change with h. But the error constant changes by an order of 2.
+    Error constant for 0.01 = 3.4e-05
+    Error constant for 0.01 = 3.4e-07
+
+4.  When h = 0.1, order = 1.89134
+    When h = 0.05, order = 1.88568
+    We see that order of global error does not change much with h.
