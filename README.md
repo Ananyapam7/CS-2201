@@ -1,5 +1,5 @@
 # CS-2201
-The introductory course on computation offered to second year undergrads at IISER K encompasses the following-
+This introductory course on computation offered to second year undergrads at IISER K encompasses the following-
 - Root finding by the bisection, regula falsi and Newton-Raphson methods. 
 - Study of iteration systems and solving iterative equations 
 - Elementary operations of matrices; eigenvalues and eigenvectors. 
